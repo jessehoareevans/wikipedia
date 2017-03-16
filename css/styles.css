@@ -1,13 +1,58 @@
-.col-md-6 {
+.col-md-7 {
   background-color: #f5fffa;
   border-color: #B9D599;
+  width: 55%;
 }
 h5 {
-  background-color: #B9D599;
+  background-color: #cef2e0;
 }
 .col-md-5 {
-  background-color: lightblue;
+  background-color: #DBEDF5;
+  width: 44%%;
+  margin-left: 1%;
 }
 .banner {
-  background-color: #B6B8B4;
+  background-color: #E2E7E9;
+  margin-bottom: 10px;
+}
+.logo {
+  height: 150px;
+  margin-bottom: 10px;
+  margin-left: 18px;
+}
+h4 {
+  background-color: #cedff2;
+}
+.banner ul {
+  margin-top: 25px;
+}
+.sidebar ul {
+  list-style: none;
+}
+.govt {
+  height: 102px;
+  width: 152px;
+  float: right;
+  margin-left: 20px;
+}
+.band {
+  height: 102px;
+  width: 177px;
+  float: left;
+  margin-right: 25px;
+}
+.turkey {
+  height: 102px;
+  width: 135px;
+}
+.picture-wrap {
+  float: right;
+  margin-left: 20px;
+  width: 135px;
+}
+.cup {
+  width: 100px;
+  height: 133px;
+  float: right;
+  margin-left: 20px;
 }
